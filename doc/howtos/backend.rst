@@ -1528,6 +1528,7 @@ for editing and merging PO/POT files.
    translated this way by surrounding it with the function :func:`openerp._`
    (e.g. ``_("Label")``)
 
+
 .. exercise:: Translate a module
 
    Choose a second language for your Odoo installation. Translate your
